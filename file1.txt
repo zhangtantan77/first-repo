@@ -1,0 +1,9 @@
+这是第一个文件“ > file1.txt
+ls
+echo 这是第一个文件
+file1.txt
+ls
+
+
+
+echo 这是第一个文件“
